@@ -1,0 +1,5 @@
+<linker>
+	<assembly fullname="System">
+		<type fullname="System.Net.HttpRequestCreator" preserve="all"/>
+	</assembly>
+</linker>

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fefa074dd74d8439c8f487a90b304c, type: 3}
+  m_Name: AppUsePathConfig
+  m_EditorClassIdentifier: 
+  _PathItemList:
+  - _ConfigItem: {fileID: 102900000, guid: a2a6750c999218344a21945be4d06934, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: 5ea3c327d6fbbe74b92a388a882c5e90, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: 74545cbad700e1d45b2ee0d70f10c211, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: bc8aaf99394b84b4ab174c30eabd16b5, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: ae06006505b27654ea5a7c7eaa06124c, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: 34827ae0bdaa60342bec9deee011b2c2, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: 51e7566229cc84140a93c93a8ca097de, type: 3}
+    _IsFolder: 1
+    _Recursive: 1
+  - _ConfigItem: {fileID: 102900000, guid: c54d8856f3599ec4088f7d5f8b77b9bc, type: 3}
+    _IsFolder: 0
+    _Recursive: 0
